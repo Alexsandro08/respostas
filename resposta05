@@ -1,0 +1,3 @@
+txt = "animal"
+
+print(txt[::-1])
